@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebImage", "WebImage\WebImage.csproj", "{A538FE03-0093-4BEB-94A4-9A755F43F05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A538FE03-0093-4BEB-94A4-9A755F43F05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A538FE03-0093-4BEB-94A4-9A755F43F05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A538FE03-0093-4BEB-94A4-9A755F43F05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A538FE03-0093-4BEB-94A4-9A755F43F05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A09AE5-3C20-421F-A03C-CF913EFF902D}
+	EndGlobalSection
+EndGlobal
